@@ -1356,8 +1356,8 @@ pre {
 
 .btn-danger,
 .btn-danger.disabled {
-	background: #f33155;
-	border: 1px solid #f33155
+	background: #2cabe3;
+	border: 1px solid #2cabe3
 }
 
 .btn-danger.disabled.focus,
@@ -1366,9 +1366,9 @@ pre {
 .btn-danger.focus,
 .btn-danger:focus,
 .btn-danger:hover {
-	background: #f33155;
+	background: #2cabe3;
 	opacity: .8;
-	border: 1px solid #f33155
+	border: 1px solid #2cabe3
 }
 
 .btn-default,
